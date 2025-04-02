@@ -1,0 +1,44 @@
+| label values
+
+unacc, acc, good, vgood
+
+| attributes
+
+Attributes:
+
+buying_vhigh: 0 or 1
+buying_high:  0 or 1
+buying_med:   0 or 1
+buying_low:   0 or 1
+
+maint_vhigh:  0 or 1
+maint_high:   0 or 1
+maint_med:    0 or 1
+maint_low:    0 or 1
+
+doors_2:      0 or 1
+doors_3:      0 or 1
+doors_4:      0 or 1
+doors_5more:  0 or 1
+
+persons_2:    0 or 1
+persons_4:    0 or 1
+persons_more: 0 or 1
+
+lug_boot_small: 0 or 1
+lug_boot_med:   0 or 1
+lug_boot_big:   0 or 1
+
+safety_low:   0 or 1
+safety_med:   0 or 1
+safety_high:  0 or 1
+
+
+| columns
+buying_vhigh, buying_high, buying_med, buying_low, 
+maint_vhigh, maint_high, maint_med, maint_low, 
+doors_2, doors_3, doors_4, doors_5more, 
+persons_2, persons_4, persons_more, 
+lug_boot_small, lug_boot_med, lug_boot_big, 
+safety_low, safety_med, safety_high, 
+label
